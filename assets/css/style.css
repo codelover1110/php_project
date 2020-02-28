@@ -1,0 +1,34 @@
+.control-button {
+    height: 34px;
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+.button-container {
+    position: fixed;
+    z-index: 100;
+    margin-left: 76px;
+}
+
+.input-container {
+    padding-left: 20%;
+    padding-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.lable {
+    padding-right: 23px;
+}
+
+.select-option {
+    margin-left: 20px;
+    width: 46%;
+    height: 28px;
+}
+
+.text-container {
+    padding-left: 20%;
+    padding-bottom: 20px;
+    display: flex;
+}
